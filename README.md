@@ -119,6 +119,7 @@
 - [NEO](https://github.com/neo-project/neo) NEO链源码
 - [CITA](https://github.com/cryptape/cita) cita联盟链的底层源码
 - [Nervos](https://github.com/nervosnetwork/ckb) 公链 Nervos CKB 的底层源码
+- [RustChain](https://github.com/Scottcjn/Rustchain) Proof-of-Antiquity 共识区块链，奖励老旧硬件运行
 - [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) 最原始的比特币代码
 - [Quorum](https://github.com/jpmorganchase/quorum) 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 - [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) 来自金链盟的聚焦金融行业的区块链底层平台
